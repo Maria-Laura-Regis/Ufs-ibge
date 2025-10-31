@@ -1,0 +1,25 @@
+body {
+    /* Fundo branco ou muito claro para o modo "PB" */
+    background-color: #f8f9fa; 
+    color: #343a40; /* Cor de texto principal mais escura */
+}
+
+h1, h2, h3 {
+    color: #212529; /* Preto quase total para títulos */
+}
+
+/* Ajuste para a tabela, se o Bootstrap padrão estiver muito colorido */
+.table {
+    /* Garante que bordas e linhas sejam em tons de cinza */
+    border-color: #dee2e6 !important; 
+}
+
+.table th {
+    /* Cor de fundo escura para o cabeçalho da tabela (mantendo o tema) */
+    background-color: #343a40 !important;
+    color: white !important;
+}
+
+.form-label {
+    font-weight: bold;
+}
