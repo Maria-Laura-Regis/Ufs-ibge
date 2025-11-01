@@ -1,0 +1,25 @@
+{
+  "name": "desfio-ibge-pages",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maria-Laura-Regis/Ufs-ibge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maria-Laura-Regis/Ufs-ibge/issues"
+  },
+  "homepage": "https://github.com/Maria-Laura-Regis/Ufs-ibge#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "http-proxy-middleware": "^3.0.5"
+  }
+}
